@@ -8,7 +8,6 @@
 
 Feedback Collector is a comprehensive SaaS platform designed for businesses to seamlessly gather and manage customer feedback. Built with a modern tech stack and corporate design principles, it provides an intuitive interface for users to submit feedback while offering robust backend capabilities for data management.
 
-![Project Banner](https://via.placeholder.com/1200x400/2563eb/ffffff?text=Feedback+Collector+-+Enterprise+Feedback+Management)
 
 ---
 
